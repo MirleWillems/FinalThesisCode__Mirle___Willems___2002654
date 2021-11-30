@@ -21,16 +21,16 @@ This folder contains the code to split the dataset of non-binary attributes into
 ## StyleGAN respository
 This folder contains all scripts originated from the StyleGAN repository that has been altered or added to perform this research.
 
-#### attribute_vector_images.py
+### attribute_vector_images.py
 to perform (controlled) single attribute manipulation
 
-#### multiple_attribute_manipulation.py 
+### multiple_attribute_manipulation.py 
 to perform (controlled) multiple attribute manipulation
 
-#### run_latents_linear_separability.py 
+### run_latents_linear_separability.py 
 generate images and perform pseudo-labelling
 
-#### pretrained_example.py 
+### pretrained_example.py 
 generate pseudo-labelled images to investigate
 
 #### Scripts that were minimally changed to train a StyleGAN
