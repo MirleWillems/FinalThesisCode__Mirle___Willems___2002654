@@ -39,7 +39,7 @@ train.py, run_metrics.py, metric_base.py
 #### Scripts originating from the original StyleGAN repository that were alted for our research
 pretrained_example.py, run_latents_linear_separability.py
 
-#### Script that is written for our research with pieces of codes originating from the original StyleGAN repository
+#### Script that are written for our research with pieces of codes originating from the original StyleGAN repository
 attribute_vector_images.py, multiple_attribute_manipulation.py
 
 #### Article used to train StyleGAN with own dataset
