@@ -1,13 +1,17 @@
 # Final Thesis Code - Mirle Willems - 2002654
 
-This repository exists of the following elements:
+This repository exists of the following elements. (Per elelement it is indicated where the code originated from or of which code it was based. 
 
 ## Attribute classifiers:
 This folder contains code for training all Attribute classifiers. These classifiers are divided into three main attributes: Hood, Closure, Length and Style. Moreover, it contains, per main attribute, the code to split the dataset inot train, test and valiation set. 
 
+The code to train the classifiers is based on https://www.youtube.com/watch?v=1Gbcp66yYX4&t=139s 
+
 
 ## Linear SVMs
 This folder contains code to fit all Linear SVMs, calculate the conditional entropy and plot the t-SNE plot, divided per attribute. 
+
+The code to calculate the conditional entropy score originated from the StyleGAN repository.
 
 
 ## Splitting data - One vs Rest approach
