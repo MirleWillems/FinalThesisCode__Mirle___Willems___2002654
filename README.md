@@ -33,13 +33,13 @@ generate images and perform pseudo-labelling
 ### pretrained_example.py 
 generate pseudo-labelled images to investigate
 
-#### Scripts that were minimally changed to train a StyleGAN
+#### Scripts that were minimally changed to train our StyleGAN
 train.py, run_metrics.py, metric_base.py
 
-#### Scripts originating from the original StyleGAN repository that were alted
+#### Scripts originating from the original StyleGAN repository that were alted for our research
 pretrained_example.py, run_latents_linear_separability.py
 
-#### Script that I wrote with pieces of codes originating from the original StyleGAN repository
+#### Script that is written for our research with pieces of codes originating from the original StyleGAN repository
 attribute_vector_images.py, multiple_attribute_manipulation.py
 
 #### Article used to train StyleGAN with own dataset
