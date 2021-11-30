@@ -42,13 +42,13 @@ attribute_vector_images.py, multiple_attribute_manipulation.py
 https://evigio.com/post/how-to-use-custom-datasets-with-stylegan-tensorFlow-implementation
 
 
-#### Attribute Vectors Correlation Matrix
+## Attribute Vectors Correlation Matrix
 Contains the code to create the correlation matrix of the attribute vectors.
 
 
-### Exploration PIM Dataset
+## Exploration PIM Dataset
 Contains the code that explored the PIM dataset.
 
 
-### Resize and Reshape scraped images Zalando
+## Resize and Reshape scraped images Zalando
 Contains the code to preprocess the scraped images of Zalando.
