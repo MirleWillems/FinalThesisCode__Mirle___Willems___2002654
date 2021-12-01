@@ -1,6 +1,6 @@
 # Final Thesis Code - Mirle Willems - 2002654
 
-This repository exists of the following elements. (If applicable, it is indicated where the code originated from or which code or video/article was taken as inspiration)
+This repository exists of the following elements: (If applicable, it is indicated where the code originated from or which code or video/article was taken as base/inspiration)
 
 ## Attribute classifiers:
 This folder contains code for training all Attribute classifiers. These classifiers are divided into three main attributes: Hood, Closure, Length and Style. Moreover, it contains, per main attribute, the code to split the dataset into train, test and valiation set. 
