@@ -18,7 +18,7 @@ The code to calculate the conditional entropy score originated from the StyleGAN
 
 
 ## Splitting data - One vs Rest approach
-This folder contains the code to split the dataset of non-binary attributes into binary ones and includes the csv files with the images and corresponding labels.
+This folder contains the code to split the dataset of n-ary attributes into binary ones and includes the csv files with the images and corresponding labels.
 
 
 ## StyleGAN respository
