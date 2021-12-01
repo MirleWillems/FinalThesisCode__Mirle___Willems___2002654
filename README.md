@@ -7,6 +7,9 @@ This folder contains code for training all Attribute classifiers. These classifi
 
 The code to train the classifiers is based on https://www.youtube.com/watch?v=1Gbcp66yYX4&t=139s 
 
+## Data
+This folder contains subsets of the original PTTRNS.ai dataset (zalando_dataset_filtered_2 (sample)) and the scraped images dataset (zalando_dataset_resized_total (sample))
+
 
 ## Linear SVMs
 This folder contains code to fit all Linear SVMs, calculate the conditional entropy and plot the t-SNE plot, divided per attribute. 
